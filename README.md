@@ -2,3 +2,4 @@
 "push test" 
 "pull test"
 "æœ¬å½“ã®ãƒ—ãƒ«ãƒ†ã‚¹ãƒˆ"
+"README.md‚É’Ç‹Lƒvƒ‹ƒŠƒNƒGƒXƒg) " 
